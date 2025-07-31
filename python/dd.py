@@ -5,3 +5,4 @@ a, b, c = map(int, input().split())
 print(a,b,c)
 
 print("Hello World")
+print("Bye World")
